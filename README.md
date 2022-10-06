@@ -1,5 +1,5 @@
 # CBL-Mariner
-
+# 10/05/2022
 | Release Branch | Status                                                                                                                                                                                                 |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1.0            | [![1.0 Status](https://github.com/microsoft/CBL-Mariner/workflows/Verify%20Quickstart%201.0/badge.svg)](https://github.com/microsoft/CBL-Mariner/actions?query=workflow%3A%22Verify+Quickstart+1.0%22) |
